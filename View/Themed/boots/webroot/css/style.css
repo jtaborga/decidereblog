@@ -1,0 +1,25 @@
+/* 
+Add custom Styles here 
+
+Can be used to override bootstrap css definition
+*/
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.page-header h1>a {color : #ff781f !important;}
+.node h3>a {color : #ff781f !important;}
+.node-more-info a {color : #ff781f !important;}
+
+.comment-info .name>a {color : #ff781f !important;}
+
+.text-center {text-align: center;}
+.text-left {text-align: left;}
+.text-right {text-align: right;}
+
+.navbar .nav li.dropdown .dropdown-toggle .caret, .navbar .nav li.dropdown.open .caret {margin-top: 8px; margin-left: 5px;}
+
+
+.block-title { margin-bottom: 10px; }
+.node {margin-bottom: 15px;}
+.node, .comments {padding-left: 10px;}

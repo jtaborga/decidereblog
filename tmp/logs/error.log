@@ -1,0 +1,36 @@
+2016-02-02 02:31:44 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/blog/admin/settings/settings/prefix/Site
+Stack Trace:
+#0 C:\xampp\htdocs\blog\webroot\index.php(105): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 02:31:44 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/blog/admin/nodes/nodes/add/blog
+Stack Trace:
+#0 C:\xampp\htdocs\blog\webroot\index.php(105): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 02:32:33 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/blog/admin/nodes/nodes/add/blog
+Stack Trace:
+#0 C:\xampp\htdocs\blog\webroot\index.php(105): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 02:33:05 Error: [MissingControllerException] Controller class BlogController could not be found.
+Exception Attributes: array (
+  'class' => 'BlogController',
+  'plugin' => NULL,
+)
+Request URL: /blog/blog/admin/nodes/nodes/add/blog
+Stack Trace:
+#0 C:\xampp\htdocs\blog\webroot\index.php(105): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
