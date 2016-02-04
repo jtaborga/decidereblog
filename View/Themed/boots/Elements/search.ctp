@@ -28,7 +28,7 @@ if ($block['Block']['class'] != null) {
                 ?>
 
                 <?php
-                echo $this->Form->button('Search', array('type' => 'submit', 'class' => 'btn btn-info'));
+                echo $this->Form->button('Search', array('type' => 'submit', 'class' => 'btn btn-warning'));
                 ?>
             </div>
         </form>

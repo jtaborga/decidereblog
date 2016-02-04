@@ -23,3 +23,23 @@ body {
 .block-title { margin-bottom: 10px; }
 .node {margin-bottom: 15px;}
 .node, .comments {padding-left: 10px;}
+
+.navbar-inner {
+	background-color: #ff781f;
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ff781f), to(#ff781f));
+    background-image: -webkit-linear-gradient(top, #ccc, #ccc);
+}
+
+.navbar .nav .active > a, .navbar .nav .active > a:hover {
+    color: #333;
+    text-decoration: none;
+    background-color: #aaa;
+}
+
+a {
+	color:#333;
+}
+
+ul {
+	list-style: none;
+}

@@ -1,4 +1,4 @@
-<div class="users form">
+<div class="users">
 	<h2><?php echo $title_for_layout; ?></h2>
 	<?php echo $this->Form->create('User', array('url' => array('controller' => 'users', 'action' => 'login')));?>
 		<fieldset>

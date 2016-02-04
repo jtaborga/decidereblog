@@ -1,3 +1,4 @@
+
 <?php echo $this->Form->create('User', array('url' => array('controller' => 'users', 'action' => 'login')));?>
 <div class="box">
 	<div class="box-content">

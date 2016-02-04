@@ -3,7 +3,7 @@
         "acl_plugin": "Acl",
         "admin_theme": "",
         "asset_timestamp": "force",
-        "email": "info@decidire.com",
+        "email": "info@decidere.com",
         "feed_url": "",
         "home_url": "",
         "ipWhitelist": "127.0.0.1",
@@ -12,7 +12,7 @@
         "tagline": "News Blog",
         "theme": "boots",
         "timezone": "UTC",
-        "title": "Decidire"
+        "title": "Decidere"
     },
     "Croogo": {
         "Api": {
